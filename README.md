@@ -7,4 +7,5 @@ This project uses the Random Forest algorithm in predicting Diabetes in PIMA Ind
 For the appliction to run on your local machine, you would need to install the following:
 1. R 
 2. R Studio
-you can get them on R's official website https://rstudio.com/products/rstudio/download/
+
+You can get them on R's official website https://rstudio.com/products/rstudio/download/
