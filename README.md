@@ -13,7 +13,7 @@ You can get them on R's official website https://rstudio.com/products/rstudio/do
 ## 📥 Installation
 1. Clone this repo
 
-or
+        or
 
 2. Open Git Bash
 
