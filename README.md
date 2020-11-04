@@ -5,7 +5,7 @@
 This project uses the Random Forest algorithm in predicting Diabetes in PIMA Indians. You can visit the Project Report for more information and results of the work.
 
 ## 🚀  Setup
-For the appliction to run on your local machine, you would need to install the following:
+For the application to run on your local machine, you would need to install the following:
 1. R 
 2. R Studio
 
