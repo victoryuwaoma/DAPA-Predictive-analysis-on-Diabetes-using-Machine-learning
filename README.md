@@ -16,4 +16,5 @@ You can get them on R's official website https://rstudio.com/products/rstudio/do
 or
 
 2. Open Git Bash
+
 $ git clone https://github.com/victoryuwaoma/DAPA-Project
