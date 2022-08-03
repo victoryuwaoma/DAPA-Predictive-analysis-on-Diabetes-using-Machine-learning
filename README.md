@@ -18,6 +18,6 @@ You can get them on R's official website https://rstudio.com/products/rstudio/do
 
 2. Open Git Bash or Terminal
 
-       $ git clone https://github.com/victoryuwaoma/DAPA-Project
+       $ git clone https://github.com/victoryuwaoma/DAPA-Predictive-analysis-on-Diabetes-using-Machine-learning.git
        
    Happy coding! 💙
